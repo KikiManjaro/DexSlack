@@ -18,3 +18,6 @@ Run the script `DexSlack.py` with [python3](https://www.python.org/) and [cron](
 ```
 15     *     *     *     *         /usr/bin/python DexSlack.py.py
 ```
+
+## Contributing
+Contributions are not needed for this project. Feel free to contribute if you want.
