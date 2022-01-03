@@ -36,5 +36,4 @@ def getIcon(gly):
     else :
         return ':slightly_smiling_face:'
         
-
 changeStatus()
