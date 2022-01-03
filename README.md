@@ -1,7 +1,7 @@
 # DexSlack
-A simple a nice way to display Dexcom G4/G5/G6 informations on Slack status 
+A simple a nice way to display Dexcom G4/G5/G6 informations on Slack status
 
-![Exemple](https://imgur.com/a/3RN1gi2)
+![Exemple](https://i.imgur.com/p57N9CZ.png)
 
 ## Setup
 You will need to install :
