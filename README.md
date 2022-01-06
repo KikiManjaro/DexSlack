@@ -1,5 +1,5 @@
 # DexSlack
-A simple a nice way to display Dexcom G4/G5/G6 informations on Slack status
+A simple and nice way to display Dexcom G4/G5/G6 informations on Slack status
 
 ![Exemple](https://i.imgur.com/p57N9CZ.png)
 
