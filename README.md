@@ -6,7 +6,7 @@ A simple and nice way to display Dexcom G4/G5/G6 informations on Slack status
 ## Setup
 You will need to install :
 
-- [pydexom](https://github.com/gagebenne/pydexcom) by gagebenne
+- [pydexcom](https://github.com/gagebenne/pydexcom) by gagebenne
 - [slack_sdk](https://github.com/slackapi/python-slack-sdk) by slackapi
 
 ## Usage
